@@ -1,6 +1,6 @@
 # What Drives the Price of a Car?
 
-For the detailed steps I used in this analysis, please refer to [Jupyter Notebook](https://github.com/losflo/ml-what-drives-the-price-of-a-car/main/prompt_II.ipynb)
+For the detailed steps I used in this analysis, please refer to [Jupyter Notebook](https://github.com/losflo/ml-what-drives-the-price-of-a-car/blob/main/prompt_II.ipynb)
 
 Greetings `client`,
 
